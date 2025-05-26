@@ -1,6 +1,6 @@
 # Projeto: TeXTogether
 
-![print do projeto]()
+![print do projeto](image.png)
 
 Acesso: [https://web-t3.rodrigoappelt.com](https://web-t3.rodrigoappelt.com)
 
