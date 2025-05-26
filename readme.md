@@ -2,7 +2,7 @@
 
 ![print do projeto](image.png)
 
-Acesso: [https://web-t3.rodrigoappelt.com](https://web-t3.rodrigoappelt.com)
+Acesso: [https://web-t3.rodrigoappelt.com:8080](https://web-t3.rodrigoappelt.com:8080)
 
 ## Desenvolvedores
 
